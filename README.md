@@ -20,6 +20,6 @@ This script currently works on Windows only.
 ---
 **NOTES:**
 - Make sure that Elden Ring is running **BEFORE** running this script
-- This script will only work when the process, `eldenring.exe` is running
+- This script will only work when the process, `eldenring.exe` is running. You can change the code to suspend any application by changing "eldenring.exe" to whatever exe is running
 - I don't recommend running this script with seamless coop or any other modded versions
 - This script does work with flawless widescreen
