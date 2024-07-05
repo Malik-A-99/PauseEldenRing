@@ -16,6 +16,7 @@ This script currently works on Windows only.
 3. Once you are in the folder, run command prompt inside that folder
 4. Run `pip install -r requirements.txt` in command prompt
 5. After that, you can run the script in command prompt by typing, `python3 PauseEldenRing.py`
+6. You can pause the game by pressing ` 
 ---
 **NOTES:**
 - Make sure that Elden Ring is running **BEFORE** running this script
