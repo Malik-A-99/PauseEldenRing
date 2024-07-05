@@ -12,9 +12,9 @@ This script currently works on Windows only.
 
 **INSTALLATION:**
 1. Download and install python from the microsoft store (or from the website, https://www.python.org/downloads/)
-2. Extract files to its own folder
-3. Once you are in the folder, run command prompt in that folder
-4. Once you are in command prompt, run `pip install -r requirements.txt`
+2. Extract the files to its own folder
+3. Once you are in the folder, run command prompt inside that folder
+4. Run `pip install -r requirements.txt` in command prompt
 5. After that, you can run the script in command prompt by typing, `python3 PauseEldenRing.py`
 ---
 **NOTES:**
