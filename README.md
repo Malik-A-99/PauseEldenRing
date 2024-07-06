@@ -19,10 +19,10 @@ This script currently works on Windows only.
 6. You can pause the game by pressing [ ` ]
 ---
 **NOTES:**
-- Make sure that Elden Ring is running **BEFORE** running this script
-- This script will only work when the process, `eldenring.exe` is running. You can change the code to suspend any application by changing `eldenring.exe` to which ever exe you want to suspend/resume.
-- Has not been tested with modded versions of the game (seamless co-op, etc.) Use at your own risk!
-- This script does work with flawless widescreen
+- This script will continuously check to see if `eldenring.exe` is running or not.
+- This script will only suspend the process, `eldenring.exe`. You can change the code to suspend any application by changing `eldenring.exe` to whichever process you want to suspend/resume.
+- This has not been tested with modded versions of the game (seamless co-op, etc.) Use at your own risk!
+- This script has been tested with flawless widescreen.
 ---
 **UNINSTALL:**
 - Run `uninstall.bat` and answer both prompts with `y`. This will remove the libraries associated with the script. This will make the script un-usable.
