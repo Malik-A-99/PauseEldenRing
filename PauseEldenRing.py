@@ -1,5 +1,3 @@
-#MAKE SURE TO RUN THIS SCRIPT AFTER RUNNING ELDEN RING OR IT WILL NOT WORK
-
 import psutil as ps
 import keyboard
 import time
