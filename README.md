@@ -24,6 +24,6 @@ This script currently works on Windows only.
 - Has not been tested with modded versions of the game (seamless co-op, etc.) Use at your own risk!
 - This script does work with flawless widescreen
 ---
-**UNINSTALL**
+**UNINSTALL:**
 - Run `uninstall.bat` and answer both prompts with `y`. This will remove the libraries associated with the script. This will make the script un-usable.
 - After you run uninstall.bat you can delets the files and folder to completely remove everything.
