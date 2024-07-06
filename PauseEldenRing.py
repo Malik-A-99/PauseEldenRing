@@ -4,12 +4,19 @@ import psutil as ps
 import keyboard
 import time
 
-pid = 0
+def checkForEldenRingProcess():
+    processes = ps.process_iter()
+    for process in processes:
+        if process.name() == "eldenring.exe":
+            return process.pid
 
-processes = ps.process_iter()
-for process in processes:
-    if process.name() == "eldenring.exe":
-        pid = process.pid
+while True:
+    pid = checkForEldenRingProcess()
+    if pid == None:
+        pass
+    else:
+        break
+    time.sleep(0.5)
 
 print(pid)
 EldenRing = ps.Process(pid)
