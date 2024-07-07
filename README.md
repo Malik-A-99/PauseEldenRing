@@ -13,10 +13,9 @@ This script currently works on Windows only.
 **INSTALLATION:**
 1. Download and install python from the microsoft store (or from the website, https://www.python.org/downloads/)
 2. Extract the files to its own folder
-3. Once you are in the folder, run command prompt inside that folder
-4. Run `install.bat`
-5. After that, you can run the script in command prompt by typing, `python3 PauseEldenRing.py`
-6. You can pause the game by pressing [ ` ]
+3. Once you are in the folder, run `install.bat`
+4. After that, you can run the script in command prompt by typing, `python3 PauseEldenRing.py`
+5. You can pause the game by pressing [ ` ]
 ---
 **NOTES:**
 - This script will continuously check to see if `eldenring.exe` is running or not.
