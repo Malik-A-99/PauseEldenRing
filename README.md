@@ -1,13 +1,9 @@
+![alt text](https://github.com/Malik-A-99/PauseEldenRing/blob/main/preview.jpg?raw=true)
+
 # Pause Elden Ring
-
-
-
 This script allows you to suspend and resume the eldenring.exe process by pressing the key, "`" (back tick)
-
 This script needs the keyboard, psutil, and time library.
-
 This script currently works on Windows only.
-
 ---
 # DISCLAIMER
 1. This script reads the processes that are currently being run on your windows machine until it finds the specified process that you wish to suspend!
