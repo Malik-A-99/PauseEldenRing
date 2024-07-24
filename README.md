@@ -1,4 +1,4 @@
-![alt text](https://github.com/Malik-A-99/PauseEldenRing/blob/main/preview.jpg?raw=true)
+![image](https://raw.githubusercontent.com/Malik-A-99/PauseEldenRing/main/preview.png)
 
 # Pause Elden Ring
 This script allows you to suspend and resume the eldenring.exe process by pressing the key, "`" (back tick)
