@@ -9,7 +9,10 @@ This script needs the keyboard, psutil, and time library.
 This script currently works on Windows only.
 
 ---
-
+**DISCLAIMER**
+1. This script reads the processes that are currently being run on your windows machine until it finds the specified process that you wish to suspend!
+2. This script also reads the keyboard inputs and waits for the user to press the back tick [  `  ] key!
+---
 **INSTALLATION:**
 1. Download and install python from the microsoft store (or from the website, https://www.python.org/downloads/)
 2. Extract the files to its own folder
