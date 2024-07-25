@@ -21,6 +21,7 @@ This script allows you to suspend and resume the eldenring.exe process by pressi
 - This script has been tested with flawless widescreen.
 ---
 **SCREENSHOTS**
+
 ![image](https://raw.githubusercontent.com/Malik-A-99/PauseEldenRing/main/preview.png)
 
 ---
