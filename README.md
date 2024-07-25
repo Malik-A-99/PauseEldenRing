@@ -17,6 +17,7 @@ This script allows you to suspend and resume the eldenring.exe process by pressi
 - This script will continuously check to see if `eldenring.exe` is running or not.
 - This script will only suspend the process, `eldenring.exe`.
 - This has not been tested with modded versions of the game (seamless co-op, etc.) Use at your own risk!
+- If your display is set to anything other than 100% zoom, the menu will not be centered
 - This script has been tested with flawless widescreen.
 ---
 **SCREENSHOTS**
