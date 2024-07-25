@@ -14,11 +14,7 @@ This script currently works on Windows only.
 2. This script also reads the keyboard inputs and waits for the user to press the back tick [  `  ] key!
 ---
 **INSTALLATION:**
-1. Download and install python from the microsoft store. This will allow you to run python in command prompt.
-2. Extract the files to its own folder
-3. Once you are in the folder, run `install.bat`
-4. After that, you can now run the `Run.bat` file
-5. You can then pause the game by pressing [ ` ]
+1. Download the release and run the exe
 ---
 **NOTES:**
 - This script will continuously check to see if `eldenring.exe` is running or not.
