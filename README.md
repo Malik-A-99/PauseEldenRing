@@ -20,7 +20,7 @@ This script allows you to suspend and resume the eldenring.exe process by pressi
 - If your display is set to anything other than 100% zoom, the menu will not be centered
 - This script has been tested with flawless widescreen.
 ---
-**SCREENSHOTS**
+**SCREENSHOTS:**
 
 ![image](https://raw.githubusercontent.com/Malik-A-99/PauseEldenRing/main/preview.png)
 
