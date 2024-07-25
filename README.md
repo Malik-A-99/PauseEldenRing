@@ -14,11 +14,12 @@ This script currently works on Windows only.
 2. This script also reads the keyboard inputs and waits for the user to press the back tick [  `  ] key!
 ---
 **INSTALLATION:**
-Coming soon...
+1. Download the release and extract the files to its own folder
+2. Run the exe file labelled, `PauseEldenRing.exe` and launch Elden Ring
 ---
 **NOTES:**
 - This script will continuously check to see if `eldenring.exe` is running or not.
-- This script will only suspend the process, `eldenring.exe`. You can change the code to suspend any application by changing `eldenring.exe` to whichever process you want to suspend/resume.
+- This script will only suspend the process, `eldenring.exe`.
 - This has not been tested with modded versions of the game (seamless co-op, etc.) Use at your own risk!
 - This script has been tested with flawless widescreen.
 ---
