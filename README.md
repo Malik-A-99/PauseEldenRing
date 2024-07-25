@@ -14,7 +14,7 @@ This script currently works on Windows only.
 2. This script also reads the keyboard inputs and waits for the user to press the back tick [  `  ] key!
 ---
 **INSTALLATION:**
-1. Download the release and run the exe
+Coming soon...
 ---
 **NOTES:**
 - This script will continuously check to see if `eldenring.exe` is running or not.
