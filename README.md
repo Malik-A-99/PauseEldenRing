@@ -10,8 +10,10 @@ This script allows you to suspend and resume the eldenring.exe process by pressi
 2. This script also reads the keyboard inputs and waits for the user to press the back tick [  `  ] key!
 ---
 **INSTALLATION:**
-1. Download the release and extract the files to its own folder
-2. Run the exe file labelled, `PauseEldenRing.exe` and launch Elden Ring
+1. Download the release and extract the files to its own folder.
+2. Run the exe file labelled, `PauseEldenRing.exe` and launch Elden Ring.
+3. Once the game is running, you can press [  `  ] to pause the game.
+4. To resume the game, click `~Resume~` and the game will resume from where you left off.
 ---
 **NOTES:**
 - This script will continuously check to see if `eldenring.exe` is running or not.
