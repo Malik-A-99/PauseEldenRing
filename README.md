@@ -6,6 +6,7 @@ This script allows you to suspend and resume the eldenring.exe process by pressi
 # DISCLAIMER
 1. This script reads the processes that are currently being run on your windows machine until it finds the Elden ring process!
 2. This script also reads the keyboard inputs and waits for the user to press the back tick [  `  ] key!
+3. This script has not been tested with Easy Anti Cheat in mind! I am not responsible if you get banned!
 ---
 **INSTALLATION:**
 1. Download the release and extract the files to its own folder.
